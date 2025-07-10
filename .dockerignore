@@ -1,0 +1,12 @@
+# Git & editor files
+.vscode/
+# Entornos
+.env
+# Archivos temporales / logs
+tmp/
+*.log
+# Node
+node_modules/
+# Test files
+*.test
+*.out
