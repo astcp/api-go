@@ -184,4 +184,4 @@ go test ./tests/usecase -v...
 
 ### 📄 Licencia
 
-Este proyecto está bajo la Licencia de Christian Cabrera.
+Este proyecto está bajo licencia MIT.
